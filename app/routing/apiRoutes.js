@@ -18,6 +18,17 @@ module.exports = function (app) {
 
         for (let i = 0; i < friendAnswers.length; i++) {
             console.log(friendAnswers[i].name);
+            friendDifference = 0;
+            for (let j = 0; j < friendAnswers[i].scores[j]; j++) {
+                friendDifference += Math.abs(parseInt(userScore[j]) - parseInt(friendAnswers[i].scores[j]));
+                if (friendDifference <= userMatch.matchDifference) {
+                    userMatch.name = friendAnswers[i].name;
+                    userMatch.photo = friendAnswers[i].photo;
+                    userMatch.matchDifference = friendDifference;
+                }
+            }
         }
+        friendAnswers.push(userData);
+        res.json(userMatch);
     });
 }
