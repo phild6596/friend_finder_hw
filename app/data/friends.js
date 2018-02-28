@@ -67,6 +67,54 @@ let friendAnswers = [
             "5",
             "5"
         ]
+    },
+    {
+        "name": "Emiliano Zapata",
+        "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWqRrhk48MI_Mbm7gRJMCVnu8Koc1LZyWrVqwM4C4CSbQwggpKgA",
+        "scores": [
+            "4",
+            "5",
+            "3",
+            "3",
+            "5",
+            "1",
+            "5",
+            "5",
+            "1",
+            "3"
+        ]
+    },
+    {
+        "name": "Britney Spears",
+        "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfZ8o1ZsW_VS3Jw6WbaJL74rpF3cmhvx8h_8n5NXz0Yc0OJcrwHA",
+        "scores": [
+            "5",
+            "1",
+            "5",
+            "2",
+            "2",
+            "4",
+            "4",
+            "5",
+            "3",
+            "5"
+        ]
+    },
+    {
+        "name": "Spicoli",
+        "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQZlEkJrumh9dO97_aWTTWJZaF_TOblECPjqKKcww5wiRiVkLbsw",
+        "scores": [
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3",
+            "3"
+        ]
     }
 ]
 
