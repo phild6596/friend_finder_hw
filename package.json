@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/phild6596/friend_finder_hw/issues"
   },
-  "homepage": "https://github.com/phild6596/friend_finder_hw#readme",
+  "homepage": "https://github.com/phild6596/friend_finder_hw#home",
   "dependencies": {
     "body-parser": "^1.18.2",
     "express": "^4.16.2",
