@@ -15,5 +15,9 @@ module.exports = function (app) {
         let userPhoto = userData.photo;
         let userScore = userData.scores
         let friendDifference = 0;
+
+        for (let i = 0; i < friendAnswers.length; i++) {
+            console.log(friendAnswers[i].name);
+        }
     });
 }
