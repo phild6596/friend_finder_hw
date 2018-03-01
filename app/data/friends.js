@@ -37,56 +37,8 @@ let friendAnswers = [
         ]
     },
     {
-        "name": "Juan Cena",
-        "photo": "https://i.ytimg.com/vi/2fcCuNVTDco/maxresdefault.jpg",
-        "scores": [
-            "3",
-            "3",
-            "3",
-            "4",
-            "4",
-            "3",
-            "4",
-            "2",
-            "5",
-            "5"
-        ]
-    },
-    {
-        "name": "Jesus",
-        "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgp2HdUh7uQt4sBvpNYgQBwbiS9RpPzD0TrAcRzxQYJcbHOxocrA",
-        "scores": [
-            "5",
-            "4",
-            "4",
-            "3",
-            "3",
-            "4",
-            "3",
-            "2",
-            "5",
-            "5"
-        ]
-    },
-    {
-        "name": "Emiliano Zapata",
-        "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWqRrhk48MI_Mbm7gRJMCVnu8Koc1LZyWrVqwM4C4CSbQwggpKgA",
-        "scores": [
-            "4",
-            "5",
-            "3",
-            "3",
-            "5",
-            "1",
-            "5",
-            "5",
-            "1",
-            "3"
-        ]
-    },
-    {
-        "name": "Britney Spears",
-        "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfZ8o1ZsW_VS3Jw6WbaJL74rpF3cmhvx8h_8n5NXz0Yc0OJcrwHA",
+        "name": "Kate Upton",
+        "photo": "http://dlisted.com/wp-content/uploads/2017/02/kateuptonsportsillustrated-500x594.jpg",
         "scores": [
             "5",
             "1",
